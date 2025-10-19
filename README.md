@@ -1,62 +1,85 @@
-<!-- 动态打字机效果标题 -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=36BCF7&center=true&vCenter=true&width=480&lines=你好，我是宝总✨;一名热爱代码与创造的开发者;Spring+Vue+Node+Electron爱好者;正在构建属于自己的数字星海🚀" alt="Typing SVG" />
-</h1>
+# 👋 欢迎来到宝总的个人主页
+
+![Header Banner](https://dummyimage.com/1200x300/000/fff&text=Welcome+to+MoJieXuan)
+
+嗨，我是 **佳宝**，一个喜欢用代码创造小惊喜的人。  
+这里是我的 **开源实验室、技术积累库和个人主页合集**，希望你能在这里找到灵感、学习和乐趣。
 
 ---
 
-### 👋 关于我
-> “代码是诗，服务器是舞台。”
+## 💻 关于我
 
-- 🧠 **后端开发者** — 使用 `Spring Boot`、`Node.js`、`Vue 3`、`Electron`
-- ⚙️ **正在开发**：`chenille-spring-boot-starter`
-- 💡 喜欢探索高效、优雅的架构设计  
-- 💬 偶尔写点笔记与灵感，更多的是与自己对话
-
----
-
-### 🚀 技术栈一览
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
+- 🔹 **职业**：全栈开发 / 后端专家 / Node.js & Spring Boot 爱好者  
+- 🔹 **擅长**：  
+  - Java & Spring Boot  
+  - Node.js / Express  
+  - Vue 3 / Electron / 前端小魔法  
+  - Reactive 编程 & R2DBC  
+- 🔹 **兴趣**：开源、AI、自动化、前沿技术实验  
+- 🔹 **座右铭**：代码笔墨，行若星河，创意通灵 😎
 
 ---
 
-### 📊 GitHub 状态
+## 🌟 我的开源项目精选
 
-<div align="center">
+| 项目 | 简介 | 链接 |
+|------|------|------|
+| `chenille-spring-boot-starter` | Spring Boot 快速启动器，集成缓存、AOP、工具方法 | [仓库链接](https://github.com/mojiexuan/chenille-spring-boot-starter) |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### ☕ 小憩片刻
-> “有时编程像煮茶，越专注，越能尝出回甘。”
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+> 每个项目都在不断更新，欢迎 Star ⭐ 和 Fork 🍴！
 
 ---
 
-### 🌌 访客计数
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+## 🚀 技术栈
 
-</div>
+```text
+💻 后端：Java, Spring Boot, Node.js, R2DBC
+🌐 前端：Vue 3, Electron
+🛠️ 工具：Git, Docker, Redis, RabbitMQ
+⚡ 其他：Reactive 编程, AOP, 缓存优化
+```
 
 ---
 
-<p align="center">💫 <i>愿每一行代码都成为照亮夜空的微光</i> 💫</p>
+## 📫 联系我
+
+- 邮箱：`mail@chenjiabao.com`  
+- 微信/QQ：`***`  
+- 更多社交：[Twitter / B站 / 其他]  
+
+💡 欢迎交流技术、合作开源或一起脑洞大开。
+
+---
+
+## 📈 GitHub 数据统计（动态可选）
+
+![BaoZong's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojiexuan&show_icons=true&theme=radical)
+
+---
+
+## 📝 我的博客 / 笔记
+
+- [技术笔记](https://doc.chenjiabao.com)
+- [码界轩](https://www.chenjiabao.com/)  
+
+---
+
+## 🎯 喜欢的事情
+
+- 尝试新技术 & 挖掘工具  
+- 优化开发流程 & 自动化  
+- 和开源社区的小伙伴们一起破冰  
+- 玩点小实验，偶尔写写 AI 脚本 😏
+
+---
+
+## ✨ 欢迎留言 / Star / Fork
+
+如果你喜欢我的项目或内容，**给个 Star ⭐ 或 Fork 🍴**，我会很开心！  
+一起探索技术、解决问题、创造乐趣！
+
+---
+
+> “代码笔墨，行若星河，创意通灵”  
+> — 陈佳宝
+
