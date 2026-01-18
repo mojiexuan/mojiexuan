@@ -24,6 +24,7 @@
 
 | 项目 | 简介 | 链接 |
 |------|------|------|
+|`chenille-ai-ide`|Chenille - AI IDE - 毛毛虫 🐛| [仓库链接](https://github.com/mojiexuan/chenille-ai-ide) |
 | `chenille-spring-boot-starter` | Spring Boot 快速启动器，集成缓存、AOP、工具方法 | [仓库链接](https://github.com/mojiexuan/chenille-spring-boot-starter) |
 
 > 每个项目都在不断更新，欢迎 Star ⭐ 和 Fork 🍴！
@@ -51,16 +52,11 @@
 
 ---
 
-## 📈 GitHub 数据统计（动态可选）
-
-![BaoZong's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojiexuan&show_icons=true&theme=radical)
-
----
-
 ## 📝 我的博客 / 笔记
 
 - [技术笔记](https://doc.chenjiabao.com)
-- [码界轩](https://www.chenjiabao.com/)  
+- [码界轩](https://www.chenjiabao.com)
+- [Chenille AI IDE](https://ide.chenjiabao.cn)
 
 ---
 
