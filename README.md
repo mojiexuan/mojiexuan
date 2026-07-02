@@ -1,4 +1,4 @@
-# 👋 欢迎来到我的的个人主页
+# 天行健，君子以自强不息
 
 ![Header Banner](https://dummyimage.com/1200x300/000/fff&text=Welcome+to+MoJieXuan)
 
