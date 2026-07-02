@@ -1,4 +1,4 @@
-# 天行健，君子以自强不息
+# 🌌 天行健，君子以自强不息
 
 ![Header Banner](https://dummyimage.com/1200x300/000/fff&text=Welcome+to+MoJieXuan)
 
@@ -57,6 +57,7 @@
 - [技术笔记](https://doc.chenjiabao.com)
 - [码界轩](https://www.chenjiabao.com)
 - [Chenille AI IDE](https://ide.chenjiabao.cn)
+- [Chenille Chat](https://chat.chenjiabao.com)
 
 ---
 
@@ -76,6 +77,6 @@
 
 ---
 
-> “代码笔墨，行若星河，创意通灵”  
+> “代码笔墨，心若星河，创意通灵”  
 > — 陈佳宝
 
